@@ -8,11 +8,11 @@ Dashboard Features Summary
   *  Used Power Query for ETL processes, transforming raw data into structured models with relationships and calculated fields using DAX.
   *  Implemented a state-based slicer for regional analysis and interactive filters for better user control.
   *  Displayed insights through customized visuals:
-        Profit by month
-        Quantity by Category
-        Amount by State
-        Profit by Sub-Category
-        Amount by Customer Name
-        Quantity by Payment Mode
+       - Profit by month
+       - Quantity by Category
+       - Amount by State
+       - Profit by Sub-Category
+       - Amount by Customer Name
+       - Quantity by Payment Mode
 
   *  Added summary KPI cards for total amount, profit and quantity at the top of quick snapshot analysis.
