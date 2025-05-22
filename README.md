@@ -16,3 +16,7 @@ Dashboard Features Summary
        - Quantity by Payment Mode
 
   *  Added summary KPI cards for total amount, profit and quantity at the top of quick snapshot analysis.
+ 
+  * Screenshots / Demos
+       - Show what the dashboard looks like .
+         -[Dashboard Preview](https://github.com/MadneTiru/E-Commerce-Dashboard/blob/main/E-Commerce.png).
